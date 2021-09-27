@@ -11,11 +11,11 @@
 ![NKFUST](NKFUST.png "第一科大")
 
 
-This is a 'text'.
+This is a `text`.
 
-'''
+```
 This is a long quote.
-'''
+```
 
 - [x] this is checked
 - [ ] undo
