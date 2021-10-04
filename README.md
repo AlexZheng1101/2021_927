@@ -44,8 +44,8 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
     *** note 3
 ***
-- [ ] todo list
-- [ ] 2nd things
+- [ x ] todo list
+- [ x ] 2nd things
 ***
 python code
 
